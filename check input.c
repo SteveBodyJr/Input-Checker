@@ -13,7 +13,7 @@ int main () {
 
 system("color 80");
 printf("Enter either a Digit , Alphabet or Special Character  \n");
-input("%c", &a);
+input("%c", &a); // Just a python vibe
 
 
 if (isalpha(a)){
